@@ -1,0 +1,140 @@
+[
+  {
+    "id": 0,
+    "categoryId": "Marvel Heroes",
+    "name": "Spider-Man",
+    "itemsInStock": 1
+  },
+  {
+    "id": 1,
+    "categoryId": "Marvel Heroes",
+    "name": "Hulk",
+    "itemsInStock": 1
+  },
+  {
+    "id": 2,
+    "categoryId": "Marvel Heroes",
+    "name": "Captain America",
+    "itemsInStock": 1
+  },
+  {
+    "id": 3,
+    "categoryId": "Marvel Heroes",
+    "name": "Thor",
+    "itemsInStock": 1
+  },
+  {
+    "id": 4,
+    "categoryId": "Marvel Heroes",
+    "name": "Iron Man",
+    "itemsInStock": 1
+  },
+  {
+    "id": 5,
+    "categoryId": "Marvel Heroes",
+    "name": "Hawkeye",
+    "itemsInStock": 1
+  },
+  {
+    "id": 6,
+    "categoryId": "Marvel Heroes",
+    "name": "Black Widow",
+    "itemsInStock": 1
+  },
+  {
+    "id": 7,
+    "categoryId": "Marvel Heroes",
+    "name": "Nick Fury",
+    "itemsInStock": 1
+  },
+  {
+    "id": 8,
+    "categoryId": "DC Heroes",
+    "name": "Superman",
+    "itemsInStock": 1
+  },
+  {
+    "id": 9,
+    "categoryId": "DC Heroes",
+    "name": "Wonder Woman",
+    "itemsInStock": 1
+  },
+  {
+    "id": 10,
+    "categoryId": "DC Heroes",
+    "name": "Flash",
+    "itemsInStock": 1
+  },
+  {
+    "id": 11,
+    "categoryId": "DC Heroes",
+    "name": "Batman",
+    "itemsInStock": 1
+  },
+  {
+    "id": 12,
+    "categoryId": "DC Heroes",
+    "name": "Green Lantern",
+    "itemsInStock": 1
+  },
+  {
+    "id": 13,
+    "categoryId": "DC Heroes",
+    "name": "Cyborg",
+    "itemsInStock": 1
+  },
+  {
+    "id": 14,
+    "categoryId": "DC Heroes",
+    "name": "Aquaman",
+    "itemsInStock": 1
+  },
+  {
+    "id": 15,
+    "categoryId": "Marvel Villians",
+    "name": "Thanos",
+    "itemsInStock": 1
+  },
+  {
+    "id": 16,
+    "categoryId": "Marvel Villians",
+    "name": "Corvius Glave",
+    "itemsInStock": 1
+  },
+  {
+    "id": 17,
+    "categoryId": "Marvel Villians",
+    "name": "Proxima Midnight",
+    "itemsInStock": 1
+  },
+  {
+    "id": 18,
+    "categoryId": "Marvel Villians",
+    "name": "Ebony Maw",
+    "itemsInStock": 1
+  },
+  {
+    "id": 19,
+    "categoryId": "Marvel Villians",
+    "name": "Black Dwarf",
+    "itemsInStock": 1
+  },
+  {
+    "id": 20,
+    "categoryId": "DC Villians",
+    "name": "Darkseid",
+    "itemsInStock": 1
+  },
+  {
+    "id": 21,
+    "categoryId": "DC Villians",
+    "name": "Joker",
+    "itemsInStock": 1
+  },
+  {
+    "id": 22,
+    "categoryId": "DC Villians",
+    "name": "Steppenwolf",
+    "itemsInStock": 1
+  }
+]

@@ -1,0 +1,10 @@
+
+#Dependency directory
+node_modules
+
+#Assets
+dist/
+
+#IDE
+.vscode/*
+!.vscode/launch.json
